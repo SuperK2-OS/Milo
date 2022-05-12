@@ -34,7 +34,7 @@
 
     - **g++-10**: Este es el compilador [GNU C++](https://gcc.gnu.org/), un compilador de optimización para C++.
 
-    - **libgmock-dev**: [Framework de Google](https://github.com/google/googletest)Framework de Google para escribir pruebas en C++.
+    - **libgmock-dev**: [Framework de Google](https://github.com/google/googletest) Framework de Google para escribir pruebas en C++.
 
     - Clona el repositorio y compila OSIRIS.
  
