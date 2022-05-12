@@ -10,9 +10,10 @@
 
 # Linux Shell Script para descargar, actualizar, compilar e inyectar de forma automática el Cheat / Hack para Counter-Strike: Global Offensive (CS:GO).
 
-**Prerrequisitos**
-    - Una instalación limpia de Ubuntu 22.04 LTS Desktop / Instalación Normal
-    - Drivers de Terceros (nVidia)
+#**Prerrequisitos**
+
+- Una instalación limpia de Ubuntu 22.04 LTS Desktop / Instalación Normal
+- Drivers de Terceros (nVidia)
     
 **Acciones del Script**
     - Actualiza el sistema.
