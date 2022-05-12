@@ -27,7 +27,7 @@
 
     - **cMake**: [CMake](https://cmake.org/) es una familia de herramientas diseñada para construir, probar y empaquetar software. CMake se utiliza para controlar el proceso de compilación del software usando ficheros de configuración sencillos e independientes de la plataforma.
 
-    - **libsdl2-dev**: Es una biblioteca que permite que los programas tengan acceso portable de bajo nivel a un búfer de cuadros de video, salida de audio, mouse y teclado.
+    - **libsdl2-dev**: [SDL](https://www.libsdl.org/) Simple DirectMedia Layer es una biblioteca de desarrollo multiplataforma diseñada para brindar acceso de bajo nivel a hardware de audio, teclado, mouse, joystick y gráficos a través de OpenGL y Direct3D. Es utilizado por software de reproducción de video, emuladores y juegos populares, incluido el catálogo de Valve.
 
     - **libfreetype-dev**: Librería de renderización de fuentes TrueType. 
 
