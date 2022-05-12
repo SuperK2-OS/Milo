@@ -8,12 +8,14 @@
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-- **Cheat/ Hack para Counter-Strike: Global Offensive (CS:GO)**.
+# **Linux Shell Script para descargar, actualizar, compilar e inyectar de forma automática el Cheat/ Hack para Counter-Strike: Global Offensive (CS:GO) creado por **.
 
-- **Prerequisitos**
+# **Prerrequisitos**
     - Una instalación limpia de Ubuntu 22.04 LTS Desktop / Instalación Normal + Drivers de Terceros (nVidia)
-- Este Script realiza las siguientes acciones:
-    - Actualiza el sistema Descargar,
+    
+# **Acciones del Script**
+    - Actualiza el sistema.
+    - Instala paquetes necesarios paraActualiza el sistema Descargar,
 
 - Diseñado para hacer ByPass al sistema [**VAC** (Valve Anti-Cheat System)](https://https://support.steampowered.com/kb/7849-RADZ-6869/) de la compañía [© 2021 Valve Corporation](https://www.valvesoftware.com/)
 
