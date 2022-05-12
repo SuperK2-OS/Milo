@@ -36,7 +36,7 @@
     - **libgmock-dev**: Framework de Google para escribir pruebas en C++
  
 
-Diseñado para hacer ByPass al sistema [**VAC** (Valve Anti-Cheat System)](https://https://support.steampowered.com/kb/7849-RADZ-6869/) de la compañía [© 2021 Valve Corporation](https://www.valvesoftware.com/)
+Diseñado para hacer ByPass al sistema [**VAC** (Valve Anti-Cheat System)](https://https://support.steampowered.com/kb/7849-RADZ-6869/) de la compañía [© 2022 Valve Corporation](https://www.valvesoftware.com/)
 
 Compatible con **[Counter-Strike: Global Offensive](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/?l=spanish)**, disponible de forma totalmente gratuita para Windows y Linux en la plataforma **[STEAM](https://store.steampowered.com)** en su juego  (a.k.a: csgo, cs:go). 
 
