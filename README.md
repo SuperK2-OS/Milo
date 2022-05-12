@@ -25,7 +25,7 @@
 
     - **gh**: [GitHub© CLI](https://cli.github.com/)
 
-    - **cMake**: CMake es una familia de herramientas diseñada para construir, probar y empaquetar software. CMake se utiliza para controlar el proceso de compilación del software usando ficheros de configuración sencillos e independientes de la plataforma.
+    - **cMake**: [CMake](https://cmake.org/) es una familia de herramientas diseñada para construir, probar y empaquetar software. CMake se utiliza para controlar el proceso de compilación del software usando ficheros de configuración sencillos e independientes de la plataforma.
 
     - **libsdl2-dev**: Es una biblioteca que permite que los programas tengan acceso portable de bajo nivel a un búfer de cuadros de video, salida de audio, mouse y teclado.
 
