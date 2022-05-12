@@ -18,8 +18,8 @@
 **Acciones del Script**:
 - Actualiza el sistema.
 - Instala paquetes necesarios:
-    - **gh**
-    - **cmake**
+    - **gh**: GitHub© CLI
+    - **cMake**: CMake es una familia de herramientas diseñada para construir, probar y empaquetar software. CMake se utiliza para controlar el proceso de compilación del software usando ficheros de configuración sencillos e independientes de la plataforma.
     - **libsdl2-dev**
     - **libfreetype-dev**
     - **g++-10**
