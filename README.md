@@ -30,11 +30,11 @@
 
     - **libsdl2-dev**: [SDL](https://www.libsdl.org/) Simple DirectMedia Layer es una biblioteca de desarrollo multiplataforma diseñada para brindar acceso de bajo nivel a hardware de audio, teclado, mouse, joystick y gráficos a través de OpenGL y Direct3D. Es utilizado por software de reproducción de video, emuladores y juegos populares, incluido el catálogo de Valve.
 
-    - **libfreetype-dev**: Librería de renderización de fuentes TrueType. 
+    - **libfreetype-dev**: [FreeType](https://freetype.org/) Librería de renderización de fuentes TrueType. 
 
     - **g++-10**: Este es el compilador [GNU C++](https://gcc.gnu.org/), un compilador de optimización para C++.
 
-    - **libgmock-dev**: Framework de Google para escribir pruebas en C++.
+    - **libgmock-dev**: [Framework de Google](https://github.com/google/googletest)Framework de Google para escribir pruebas en C++.
 
     - Clona el repositorio y compila OSIRIS.
  
