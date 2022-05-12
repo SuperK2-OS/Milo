@@ -31,7 +31,7 @@
 
     - **libfreetype-dev**: Librería de renderización de fuentes TrueType. 
 
-    - **g++-10**: Este es el compilador GNU C++, un compilador de optimización para C++.
+    - **g++-10**: Este es el compilador [GNU C++](https://gcc.gnu.org/), un compilador de optimización para C++.
 
     - **libgmock-dev**: Framework de Google para escribir pruebas en C++
  
