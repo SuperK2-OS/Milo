@@ -33,7 +33,7 @@
 
     - **g++-10**: Este es el compilador GNU C++, un compilador de optimización para C++.
 
-    - **libgmock-dev**: Google's framework for writing C++ tests
+    - **libgmock-dev**: Framework de Google para escribir pruebas en C++
  
 
 Diseñado para hacer ByPass al sistema [**VAC** (Valve Anti-Cheat System)](https://https://support.steampowered.com/kb/7849-RADZ-6869/) de la compañía [© 2021 Valve Corporation](https://www.valvesoftware.com/)
