@@ -23,7 +23,7 @@
 
 - Instala paquetes necesarios:
 
-    - **gh**: GitHub© CLI
+    - **gh**: [GitHub© CLI](https://cli.github.com/)
 
     - **cMake**: CMake es una familia de herramientas diseñada para construir, probar y empaquetar software. CMake se utiliza para controlar el proceso de compilación del software usando ficheros de configuración sencillos e independientes de la plataforma.
 
