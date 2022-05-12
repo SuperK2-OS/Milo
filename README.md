@@ -9,8 +9,6 @@ MiLO™ - OSIRIS™ MultiHack Loader Script
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-[![xs86](https://img.shields.io/badge/Espa%C3%B1ol%20%2F%20Spanish-%20-red)]
-
 - **Cheat/ Hack Libre y Gratuito 100%**, de Código Abierto (Free open-source).
 
 - Diseñado para hacer ByPass al sistema [**VAC** (Valve Anti-Cheat System)](https://https://support.steampowered.com/kb/7849-RADZ-6869/) de la compañía [© 2021 Valve Corporation](https://www.valvesoftware.com/)
