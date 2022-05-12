@@ -36,7 +36,7 @@
 
     - **libgmock-dev**: [Framework de Google](https://github.com/google/googletest) Framework de Google para escribir pruebas en C++.
 
-Clona el repositorio y compila OSIRIS.
+- Clona el repositorio y compila OSIRIS.
  
 **Compatible con **[Counter-Strike: Global Offensive](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/?l=spanish)**, disponible de forma totalmente gratuita para Windows y Linux en la plataforma **[STEAM](https://store.steampowered.com)** en su juego  (a.k.a: csgo, cs:go).
 
