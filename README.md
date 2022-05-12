@@ -8,7 +8,7 @@
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-# Linux Shell Script para descargar, actualizar, compilar e inyectar de forma automática el Cheat / Hack para Counter-Strike: Global Offensive (CS:GO).
+# Linux Shell Script para descargar, actualizar, compilar e inyectar de forma automática el Cheat / Hack OSIRIS para Counter-Strike: Global Offensive (CS:GO).
 
 #**Prerrequisitos**
 
