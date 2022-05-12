@@ -20,10 +20,10 @@
 - Instala paquetes necesarios:
     - **gh**: GitHub© CLI
     - **cMake**: CMake es una familia de herramientas diseñada para construir, probar y empaquetar software. CMake se utiliza para controlar el proceso de compilación del software usando ficheros de configuración sencillos e independientes de la plataforma.
-    - **libsdl2-dev**
-    - **libfreetype-dev**
-    - **g++-10**
-    - **libgmock-dev**
+    - **libsdl2-dev**:Ees una biblioteca que permite que los programas tengan acceso portable de bajo nivel a un búfer de cuadros de video, salida de audio, mouse y teclado.
+    - **libfreetype-dev**: Librería de renderización de fuentes TrueType. 
+    - **g++-10**: Este es el compilador GNU C++, un compilador de optimización para C++.
+    - **libgmock-dev**: Google's framework for writing C++ tests
  
 
 - Diseñado para hacer ByPass al sistema [**VAC** (Valve Anti-Cheat System)](https://https://support.steampowered.com/kb/7849-RADZ-6869/) de la compañía [© 2021 Valve Corporation](https://www.valvesoftware.com/)
