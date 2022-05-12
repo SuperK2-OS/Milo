@@ -33,7 +33,9 @@
 
     - **g++-10**: Este es el compilador [GNU C++](https://gcc.gnu.org/), un compilador de optimización para C++.
 
-    - **libgmock-dev**: Framework de Google para escribir pruebas en C++
+    - **libgmock-dev**: Framework de Google para escribir pruebas en C++.
+
+    - Clona el repositorio y compila OSIRIS.
  
 **Diseñado para hacer ByPass al sistema [**VAC** (Valve Anti-Cheat System)](https://help.steampowered.com/es/faqs/view/571A-97DA-70E9-FF74) de la compañía [© 2022 Valve Corporation](https://www.valvesoftware.com/)**
 
