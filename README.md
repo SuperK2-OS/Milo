@@ -10,12 +10,12 @@
 
 # Linux Shell Script para descargar, actualizar, compilar e inyectar de forma automática el Cheat / Hack OSIRIS para Counter-Strike: Global Offensive (CS:GO).
 
-**Prerrequisitos**
-
+**Prerrequisitos**:
 - Una instalación limpia de Ubuntu 22.04 LTS Desktop / Instalación Normal
 - Drivers de Terceros (nVidia)
+
     
-**Acciones del Script**
+**Acciones del Script**:
 - Actualiza el sistema.
 - Instala paquetes necesarios:
     - **gh**
@@ -24,6 +24,7 @@
     - **libfreetype-dev**
     - **g++-10**
     - **libgmock-dev**
+ 
 
 - Diseñado para hacer ByPass al sistema [**VAC** (Valve Anti-Cheat System)](https://https://support.steampowered.com/kb/7849-RADZ-6869/) de la compañía [© 2021 Valve Corporation](https://www.valvesoftware.com/)
 
