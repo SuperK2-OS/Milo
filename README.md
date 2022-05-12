@@ -1,5 +1,5 @@
 # MiLO™ - OSIRIS™ MultiHack Loader Script
-**Script Diseñado para hacer ByPass al sistema [**VAC** (Valve Anti-Cheat System)](https://help.steampowered.com/es/faqs/view/571A-97DA-70E9-FF74) de la compañía [© 2022 Valve Corporation](https://www.valvesoftware.com/)**
+**Script Diseñado para hacer ByPass al sistema de seguridad [**VAC** (Valve Anti-Cheat System)](https://help.steampowered.com/es/faqs/view/571A-97DA-70E9-FF74) de [© 2022 Valve Corporation](https://www.valvesoftware.com/)**
 
 ![text](https://www.ginx.tv/uploads/Shroud_csgo.jpg)
 
