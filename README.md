@@ -8,10 +8,12 @@
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-- **Cheat/ Hack Libre y Gratuito 100%**, de Código Abierto (Free open-source).
+- **Cheat/ Hack para Counter-Strike: Global Offensive (CS:GO)**.
 
+- **Prerequisitos**
+    - Una instalación limpia de Ubuntu 22.04 LTS Desktop / Instalación Normal + Drivers de Terceros (nVidia)
 - Este Script realiza las siguientes acciones:
-    - Descargar,
+    - Actualiza el sistema Descargar,
 
 - Diseñado para hacer ByPass al sistema [**VAC** (Valve Anti-Cheat System)](https://https://support.steampowered.com/kb/7849-RADZ-6869/) de la compañía [© 2021 Valve Corporation](https://www.valvesoftware.com/)
 
