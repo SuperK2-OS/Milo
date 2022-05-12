@@ -1,5 +1,4 @@
-# Milo
-MiLO™ - OSIRIS™ MultiHack Loader Script
+# MiLO™ - OSIRIS™ MultiHack Loader Script
 
 ![text](https://www.ginx.tv/uploads/Shroud_csgo.jpg)
 
