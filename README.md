@@ -45,12 +45,8 @@
 
 - Special Thanks to **[Daniel Krupiński](https://github.com/danielkrupinski/Osiris) and [contributors](https://github.com/danielkrupinski/Osiris/graphs/contributors)**, [ocornut](https://github.com/ocornut) and [contributors](https://github.com/ocornut/imgui/graphs/contributors) for [Dear imgui](https://github.com/ocornut/imgui) and [Zer0Mem0ry](https://github.com/Zer0Mem0ry) . Respect! ;-)
 
-- Escrito en **C++ Moderno** y con GUI [Dear ImGui](https://github.com/ocornut/imgui)
+- Osiris está escrito en **C++ Moderno** y con GUI [Dear ImGui](https://github.com/ocornut/imgui)
 
 - Cheat / Hack **Multiplataforma Windows / Linux** .
 
-- Diseñado como cheat interno **[Dynamic-link library](https://en.wikipedia.org/wiki/Dynamic-link_library)** (.DLL) inyectable en el proceso del juego.
-
-- Traducido a Español por **BaiAlbert y SuperK2**. [En progreso]
-
-- Añadiendo funciones de otros proyectos / cheats / hacks. [En progreso]
+- Diseñado como cheat interno **[Dynamic-link library](https://en.wikipedia.org/wiki/Dynamic-link_library)** inyectable en el proceso del juego.
