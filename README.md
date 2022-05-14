@@ -26,6 +26,7 @@
 - Ejecutar:
    - Desde GUI: Botón derecho en Milo.sh > Ejecutar como programa
    - Desde el terminal: sudo ./Milo.sh
+- Activar / Desactivar: Tecla **INSERT**
     
 **Acciones del Script**:
 
