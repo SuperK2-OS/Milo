@@ -17,6 +17,15 @@
 
 - Drivers de Terceros (nVidia)
 
+**Cómo usarlo**:
+
+- Descarga el archivo Milo.sh
+- Otorga permisos de ejecución al archivo Milo.sh
+   - Desde GUI: Botón derecho en Milo.sh > Propiedades > Permisos > Ejecución (Activar)
+   - Desde el terminal: sudo chmod +x Milo.sh
+- Ejecutar: Una instalación limpia de Ubuntu 22.04 LTS Desktop / Instalación Normal
+   - Desde GUI: Botón derecho en Milo.sh > Ejecutar como programa
+   - Desde el terminal: sudo ./Milo.sh
     
 **Acciones del Script**:
 
