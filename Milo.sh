@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# MiLO™ - v2 Beta - OSIRIS™ Multihack Loader Script
+# MiLO™ - v3 Beta - OSIRIS™ Multihack Loader Script
 # By SuperK2 - superk2_cu@protonmail.com
 # www.CheatersUnidos.com - discord.gg/4XatbjTZzS
 
@@ -25,7 +25,7 @@ clear
 
 echo "   ______________________________________________________________"
 echo "   |                                                            |"
-echo "   |     ${txtpur}${txtbld} MiLO™ - v2 Beta - OSIRIS™ Multihack Loader Script${txtrst}     |"
+echo "   |     ${txtpur}${txtbld} MiLO™ - v3 Beta - OSIRIS™ Multihack Loader Script${txtrst}     |"
 echo "   |     ${txtgrn}${txtbld}···················································${txtrst}    |"
 echo "   |                                                            |"
 echo "   |     By ${txtpur}${txtbld}SuperK2${txtrst} - superk2_cu@protonmail.com                 |"
@@ -38,34 +38,17 @@ echo "   |   ${txtred}sistema. Este script experimental está desarrollado${txtr
 echo "   |   ${txtred}exclusivamente con fines de investigación, educativos${txtrst}    |"
 echo "   |   ${txtred}y/o de formación.${txtrst}                                        |"
 echo "   |                                                            |"
-echo "   |   13 de Mayo de 2022                                       |"
+echo "   |   28 de Mayo de 2022                                       |"
 echo "   |____________________________________________________________|"
 echo "  "
 
 pause "   >>>  Por favor, pulsa ${txtgrn}[ENTER] para CONTINUAR${txtrst} o ${txtred}[CTRL+C] para CANCELAR${txtrst} ..."
 
-clear 
-
-echo "   ______________________________________________________________"
-echo "   |                                                            |"
-echo "   |     ${txtpur}${txtbld} MiLO™ - v2 Beta - OSIRIS™ Multihack Loader Script${txtrst}     |"
-echo "   |     ${txtgrn}${txtbld}Actualización del Sistema${txtrst}                              |"
-echo "   |     ${txtcyn}www.CheatersUnidos.com${txtrst}                                 |"
-echo "   |____________________________________________________________|"
-echo "   |                                                            |"
-echo "   |     ${txtgrn}${txtbld}Actualizando el sistema...${txtrst}                             |"
-echo "   |____________________________________________________________|"
-echo "  "
-echo "  "
-sleep 1
-sudo apt -qq update -y
-sudo apt -qq upgrade -y
-
 clear
 
 echo "   ______________________________________________________________"
 echo "   |                                                            |"
-echo "   |     ${txtpur}${txtbld} MiLO™ - v2 Beta - OSIRIS™ Multihack Loader Script${txtrst}     |"
+echo "   |     ${txtpur}${txtbld} MiLO™ - v3 Beta - OSIRIS™ Multihack Loader Script${txtrst}     |"
 echo "   |     ${txtgrn}${txtbld}Instalando Dependencias${txtrst}                                |"
 echo "   |     ${txtcyn}www.CheatersUnidos.com${txtrst}                                 |"
 echo "   |____________________________________________________________|"
@@ -86,7 +69,7 @@ clear
 
 echo "   ______________________________________________________________"
 echo "   |                                                            |"
-echo "   |     ${txtpur}${txtbld} MiLO™ - v2 Beta - OSIRIS™ Multihack Loader Script${txtrst}     |"
+echo "   |     ${txtpur}${txtbld} MiLO™ - v3 Beta - OSIRIS™ Multihack Loader Script${txtrst}     |"
 echo "   |     ${txtgrn}${txtbld}Eliminando versión anterior${txtrst}                            |"
 echo "   |     ${txtcyn}www.CheatersUnidos.com${txtrst}                                 |"
 echo "   |____________________________________________________________|"
@@ -109,7 +92,7 @@ clear
 
 echo "   ______________________________________________________________"
 echo "   |                                                            |"
-echo "   |     ${txtpur}${txtbld} MiLO™ - v2 Beta - OSIRIS™ Multihack Loader Script${txtrst}     |"
+echo "   |     ${txtpur}${txtbld} MiLO™ - v3 Beta - OSIRIS™ Multihack Loader Script${txtrst}     |"
 echo "   |     ${txtgrn}${txtbld}Compilación${txtrst}                                            |"
 echo "   |     ${txtcyn}www.CheatersUnidos.com${txtrst}                                 |"
 echo "   |____________________________________________________________|"
@@ -142,7 +125,7 @@ clear
 
 echo "   ______________________________________________________________"
 echo "   |                                                            |"
-echo "   |     ${txtpur}${txtbld} MiLO™ - v2 Beta - OSIRIS™ Multihack Loader Script${txtrst}     |"
+echo "   |     ${txtpur}${txtbld} MiLO™ - v3 Beta - OSIRIS™ Multihack Loader Script${txtrst}     |"
 echo "   |     ${txtgrn}${txtbld}Inyección${txtrst}                                              |"
 echo "   |     ${txtcyn}www.CheatersUnidos.com${txtrst}                                 |"
 echo "   |____________________________________________________________|"
@@ -161,7 +144,7 @@ if [ -z "$csgo_pid" ]; then
 
 echo "   ______________________________________________________________"
 echo "   |                                                            |"
-echo "   |     ${txtpur}${txtbld} MiLO™ - v2 Beta - OSIRIS™ Multihack Loader Script${txtrst}     |"
+echo "   |     ${txtpur}${txtbld} MiLO™ - v3 Beta - OSIRIS™ Multihack Loader Script${txtrst}     |"
 echo "   |     ${txtred}${txtbld}ERROR${txtrst}                                                  |"
 echo "   |     ${txtcyn}www.CheatersUnidos.com${txtrst}                                 |"
 echo "   |____________________________________________________________|"
@@ -194,9 +177,8 @@ if grep -q "$filename" /proc/"$csgo_pid"/maps; then
     echo "¿Necesitas ayuda? ${txtcyn}CheatersUnidos.com${txtrst} - ${txtcyn}discord.gg/4XatbjTZzS${txtrst}"
     exit
 fi
-echo "Injecting Build ID: $filename"
+echo "Injectando Build ID: $filename"
 
-# https://www.kernel.org/doc/Documentation/security/Yama.txt
 echo "2" | sudo tee /proc/sys/kernel/yama/ptrace_scope # Only allows root to inject code. This is temporary until reboot.
 
 sudo cp "$filename" "/usr/lib/${filename}"
@@ -230,7 +212,7 @@ clear
 if [ "$last_line" != "\$1 = (void *) 0x0" ]; then
 
 echo "⠀⠀⠀⠀⠀⠀⣿⣿                                                      "
-echo "⠀⠀⠀⠀⠀⢸⣿⣿   ${txtpur}${txtbld}MiLO™ - v2 Beta - OSIRIS™ Multihack Loader Script${txtrst}"
+echo "⠀⠀⠀⠀⠀⢸⣿⣿   ${txtpur}${txtbld}MiLO™ - v3 Beta - OSIRIS™ Multihack Loader Script${txtrst}"
 echo "⠀⠀⠀⠀⠀⠘⣿⣟   ${txtgrn}${txtbld}CHEAT INYECTADO CORRECTAMENTE !!!${txtrst}"
 echo "⠀⠀⠀⢀⡀⠀⣿⣇   ${txtgrn}${txtbld}RECUERDA${txtrst} USAR LA TECLA "${txtgrn}INSERT${txtrst}" para Activar el Hack${txtrst} "
 echo "⠀⠀⠀⠘⠁⠀⣿⣿   ${txtcyn}CheatersUnidos.com${txtrst} - ${txtcyn}discord.gg/4XatbjTZzS${txtrst}"
