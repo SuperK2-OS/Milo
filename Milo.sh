@@ -177,8 +177,23 @@ if grep -q "$filename" /proc/"$csgo_pid"/maps; then
     echo "¿Necesitas ayuda? ${txtcyn}CheatersUnidos.com${txtrst} - ${txtcyn}discord.gg/4XatbjTZzS${txtrst}"
     exit
 fi
-echo "Injectando Build ID: $filename"
 
+echo "${txtgrn}${txtbld}.         |___________________________________${txtrst}"
+echo "${txtgrn}${txtbld}|---------|     |····|····|····|····|····| ##\|__${txtrst}"
+echo "${txtgrn}${txtbld}|- - - - -|     6    5    4    3    2    1 ### __]==----------------------${txtrst}"
+echo "${txtgrn}${txtbld}|---------|________________________________##/|${txtrst}"
+echo "${txtgrn}${txtbld}'         |${txtrst}"
+echo "${txtred}${txtbld}.         |___________________________________${txtrst}"
+echo "${txtred}${txtbld}|---------|     |····|····|····|····|····| ##\|__${txtrst}"
+echo "${txtred}${txtbld}|- - - - -|     6    5    4    3    2    1 ### __]==----------------------${txtrst}"
+echo "${txtred}${txtbld}|---------|________________________________##/|${txtrst}"
+echo "${txtred}${txtbld}'         |${txtrst}"
+echo "${txtpur}${txtbld}.         |___________________________________${txtrst}"
+echo "${txtpur}${txtbld}|---------|     |····|····|····|····|····| ##\|__${txtrst}"
+echo "${txtpur}${txtbld}|- - - - -|     6    5    4    3    2    1 ### __]==----------------------${txtrst}"
+echo "${txtpur}${txtbld}|---------|________________________________##/|${txtrst}"
+echo "${txtpur}${txtbld}'         |${txtrst}"
+echo "Injectando Build ID: $filename"
 echo "2" | sudo tee /proc/sys/kernel/yama/ptrace_scope # Only allows root to inject code. This is temporary until reboot.
 
 sudo cp "$filename" "/usr/lib/${filename}"
